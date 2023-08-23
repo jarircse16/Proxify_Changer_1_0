@@ -1,0 +1,4 @@
+In this current directory, execute these:
+
+cargo build
+cargo run
